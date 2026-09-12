@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}NLP Classification Suite{% endblock %}</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; color: #1a1a1a; }
+    a { color: #2454ff; }
+    .card { border: 1px solid #ddd; border-radius: 8px; padding: 1rem 1.25rem; margin-bottom: 1rem; }
+    .card h2 { margin-top: 0; }
+    form { display: flex; flex-direction: column; gap: 0.75rem; margin: 1rem 0; }
+    textarea, select, input[type=text] { font: inherit; padding: 0.5rem; border-radius: 6px; border: 1px solid #ccc; }
+    button { font: inherit; padding: 0.5rem 1rem; border-radius: 6px; border: none; background: #2454ff; color: #fff; cursor: pointer; width: fit-content; }
+    .result { border-radius: 8px; padding: 1rem; margin-top: 1rem; }
+    .result.positive, .result.sincere { background: #e6f7ec; }
+    .result.negative, .result.insincere { background: #fdeaea; }
+    .result.error { background: #fff4e0; }
+    nav { margin-bottom: 1.5rem; }
+  </style>
+</head>
+<body>
+  <nav><a href="/">&larr; Dashboard</a></nav>
+  {% block content %}{% endblock %}
+</body>
+</html>

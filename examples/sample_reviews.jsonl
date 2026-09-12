@@ -1,0 +1,5 @@
+{"id": "en-1", "lang": "en", "text": "I absolutely love this product, it works sooooo well! https://shop.example/x", "label": "positive"}
+{"id": "en-2", "text": "Terrible experience. @support never replied and the app keeps crashing.", "label": "negative"}
+{"id": "es-1", "lang": "es", "text": "Me encanta este teléfono, la cámara es increíble y la batería dura muchísimo.", "label": "positive"}
+{"id": "es-2", "text": "No recomiendo esta tienda: el envío tardó semanas y el año pasado fue igual. ¡Qué decepción!", "label": "negative"}
+{"id": "es-3", "text": "El niño está feliz con su regalo. #GranDía", "label": "positive"}

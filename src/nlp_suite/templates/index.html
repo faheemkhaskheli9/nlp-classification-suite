@@ -1,0 +1,12 @@
+{% extends "_base.html" %}
+{% block title %}NLP Classification Suite{% endblock %}
+{% block content %}
+<h1>NLP Classification Suite</h1>
+<p>Pick a feature to run:</p>
+{% for f in features %}
+<div class="card">
+  <h2><a href="/{{ f.slug }}">{{ f.title }}</a></h2>
+  <p>{{ f.description }}</p>
+</div>
+{% endfor %}
+{% endblock %}

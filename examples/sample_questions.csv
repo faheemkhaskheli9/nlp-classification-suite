@@ -1,0 +1,61 @@
+qid,question_text,target
+q001,What is the best way to learn Python for data analysis?,0
+q002,How does photosynthesis work in plants?,0
+q003,What are some good books on machine learning for beginners?,0
+q004,How do I prepare for a job interview at a tech company?,0
+q005,What is the difference between TCP and UDP?,0
+q006,How can I improve my public speaking skills?,0
+q007,What are the health benefits of regular exercise?,0
+q008,How do vaccines work at a biological level?,0
+q009,What is the best strategy to save money in your twenties?,0
+q010,How does a neural network learn from data?,0
+q011,What are some tips for writing a clear technical report?,0
+q012,How do I set up a virtual environment in Python?,0
+q013,What causes earthquakes and how are they measured?,0
+q014,How can small businesses use social media effectively?,0
+q015,What is the difference between supervised and unsupervised learning?,0
+q016,How do airplanes stay in the air?,0
+q017,What are good habits for maintaining mental health?,0
+q018,How does encryption keep online data secure?,0
+q019,What is the best way to train for a marathon?,0
+q020,How do I choose a good topic for a research paper?,0
+q021,What is the history of the Silk Road trade route?,0
+q022,How do solar panels convert sunlight into electricity?,0
+q023,What are the pros and cons of remote work?,0
+q024,How can I make my resume stand out to recruiters?,0
+q025,What is the difference between a virus and a bacterium?,0
+q026,How do I start learning to play the guitar?,0
+q027,What are effective techniques for time management?,0
+q028,How does the stock market determine share prices?,0
+q029,What are some sustainable practices for reducing food waste?,0
+q030,How do search engines rank web pages?,0
+q031,Isn't it obvious that everyone from [group] is secretly plotting against the rest of us?,1
+q032,Why do people from that country always act so entitled and lazy?,1
+q033,Don't you think anyone who disagrees with me is just too dumb to understand facts?,1
+q034,Why can't [group] just accept that they are inferior and stop complaining?,1
+q035,Isn't it true that all politicians from that party are corrupt criminals?,1
+q036,Why are people who follow that religion always so backward and violent?,1
+q037,Don't you agree that women are naturally worse at logical thinking than men?,1
+q038,Why do people from that region always smell bad and act uncivilized?,1
+q039,Isn't it obvious that anyone who disagrees with my political views hates the country?,1
+q040,Why are immigrants from that area always trying to steal jobs and never contribute anything?,1
+q041,Don't you think people with that accent are automatically less intelligent?,1
+q042,Why can't people from that generation ever do anything right?,1
+q043,Isn't it true that everyone who supports that cause is just brainwashed and stupid?,1
+q044,Why are people from that city always so rude and self-centered?,1
+q045,Don't you agree that anyone who doesn't share my beliefs is a bad person?,1
+q046,Why do people from that background always lie about their achievements?,1
+q047,Isn't it obvious that that whole profession is full of frauds and cheats?,1
+q048,Why can't people from that fanbase ever admit their favorite thing is flawed?,1
+q049,"Don't you think that entire industry is run by greedy, heartless people?",1
+q050,Why are people who vote that way always the least informed in the room?,1
+q051,Isn't it true that anyone who studies that subject is just wasting their time?,1
+q052,Why do people from that school always think they're better than everyone else?,1
+q053,Don't you agree that anyone who disagrees with this obvious truth is delusional?,1
+q054,Why can't people who like that hobby ever shut up about it?,1
+q055,Isn't it obvious that that whole community is just looking for attention?,1
+q056,Why are people from that team's fanbase always so toxic and unreasonable?,1
+q057,Don't you think anyone who takes that stance is clearly not thinking straight?,1
+q058,Why do people who work in that field always act so superior for no reason?,1
+q059,Isn't it true that that whole trend is just a sign of a shallow generation?,1
+q060,Why can't people from that side of the debate ever admit they're wrong?,1

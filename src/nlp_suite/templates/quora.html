@@ -1,0 +1,17 @@
+{% extends "_base.html" %}
+{% block title %}Insincere Question Detection{% endblock %}
+{% block content %}
+<h1>Insincere Question Detection</h1>
+<p>TF-IDF + Logistic Regression baseline, trained on the bundled 60-row sample
+dataset (<code>examples/sample_questions.csv</code>).</p>
+<form method="post" action="/quora">
+  <label for="question_text">Question text</label>
+  <textarea id="question_text" name="question_text" rows="3" required>{{ result.text if result else '' }}</textarea>
+  <button type="submit">Classify</button>
+</form>
+{% if result %}
+<div class="result {{ result.label }}">
+  <strong>{{ result.label }}</strong>
+</div>
+{% endif %}
+{% endblock %}
