@@ -16,9 +16,11 @@ state, only on the path it was actually given (robustness rule 11).
 
 from __future__ import annotations
 
+import csv
+import tempfile
 from pathlib import Path
 
-from fastapi import FastAPI, Form, Request
+from fastapi import FastAPI, Form, Request, UploadFile
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 
@@ -33,6 +35,12 @@ from .sentiment.preprocessing import Preprocessor, detect_language
 BASE_DIR = Path(__file__).resolve().parent
 EXAMPLES_DIR = BASE_DIR.parent.parent / "examples"
 QUORA_SAMPLE = EXAMPLES_DIR / "sample_questions.csv"
+# Stand-in for the real Kaggle "Quora Insincere Questions" CSV (needs a Kaggle
+# account/API token to download and is far too large to ship or fetch in CI --
+# same mock rationale as QUORA_SAMPLE, just bigger and more class-imbalanced so
+# training on it produces metrics distinct from the small bundled sample).
+# Point --data / the upload form at the real Kaggle download once available.
+QUORA_EXTENDED_SAMPLE = EXAMPLES_DIR / "quora_extended_sample.csv"
 SENTIMENT_SAMPLE = EXAMPLES_DIR / "sentiment_dataset.jsonl"
 
 app = FastAPI(title="NLP Classification Suite")
@@ -69,9 +77,9 @@ def _get_sentiment_pipeline(dataset_path: Path, language: str):
 @app.get("/", response_class=HTMLResponse)
 def dashboard(request: Request):
     return templates.TemplateResponse(
+        request,
         "index.html",
         {
-            "request": request,
             "features": [
                 {
                     "slug": "quora",
@@ -96,7 +104,7 @@ def dashboard(request: Request):
 
 @app.get("/quora", response_class=HTMLResponse)
 def quora_page(request: Request):
-    return templates.TemplateResponse("quora.html", {"request": request, "result": None})
+    return templates.TemplateResponse(request, "quora.html", {"result": None})
 
 
 @app.post("/quora", response_class=HTMLResponse)
@@ -105,14 +113,77 @@ def quora_predict(request: Request, question_text: str = Form(...)):
     prediction = model.predict([question_text])[0]
     label = "insincere" if prediction == 1 else "sincere"
     return templates.TemplateResponse(
+        request,
         "quora.html",
-        {"request": request, "result": {"text": question_text, "label": label}},
+        {"result": {"text": question_text, "label": label}},
+    )
+
+
+@app.get("/quora/evaluate", response_class=HTMLResponse)
+def quora_evaluate_page(request: Request):
+    return templates.TemplateResponse(
+        request, "quora_evaluate.html", {"metrics": None, "error": None}
+    )
+
+
+@app.post("/quora/evaluate", response_class=HTMLResponse)
+async def quora_evaluate(request: Request, dataset: UploadFile | None = None):
+    """Train/evaluate on an uploaded CSV instead of only the bundled sample.
+
+    With no file (or an empty filename), evaluates on the bundled 60-row
+    sample. A CSV upload lets a user point at a real, larger dataset (e.g. the
+    Kaggle Insincere Questions export) without touching the CLI -- it's read
+    into a temp file rather than trusted as an in-memory string so the
+    existing `load_dataset` validation (missing columns, empty file) applies
+    identically to both paths.
+    """
+    source_label = "bundled sample (examples/sample_questions.csv)"
+    dataset_path = QUORA_SAMPLE
+    tmp_path: Path | None = None
+
+    if dataset is not None and dataset.filename:
+        raw = await dataset.read()
+        with tempfile.NamedTemporaryFile(
+            mode="wb", suffix=".csv", delete=False
+        ) as handle:
+            handle.write(raw)
+            tmp_path = Path(handle.name)
+        dataset_path = tmp_path
+        source_label = f"uploaded file ({dataset.filename})"
+
+    try:
+        texts, labels = load_dataset(dataset_path)
+        _model, metrics = train_baseline(texts, labels)
+    except (FileNotFoundError, ValueError, csv.Error) as exc:
+        return templates.TemplateResponse(
+            request,
+            "quora_evaluate.html",
+            {"metrics": None, "error": str(exc)},
+        )
+    finally:
+        if tmp_path is not None:
+            tmp_path.unlink(missing_ok=True)
+
+    return templates.TemplateResponse(
+        request,
+        "quora_evaluate.html",
+        {
+            "error": None,
+            "metrics": {
+                "source": source_label,
+                "n_rows": len(texts),
+                "precision": metrics.precision,
+                "recall": metrics.recall,
+                "f1": metrics.f1,
+                "support": metrics.support,
+            },
+        },
     )
 
 
 @app.get("/sentiment", response_class=HTMLResponse)
 def sentiment_page(request: Request):
-    return templates.TemplateResponse("sentiment.html", {"request": request, "result": None})
+    return templates.TemplateResponse(request, "sentiment.html", {"result": None})
 
 
 @app.post("/sentiment", response_class=HTMLResponse)
@@ -126,4 +197,4 @@ def sentiment_predict(request: Request, text: str = Form(...), language: str = F
         normalized = preprocessor.normalize(text)
         label = pipeline.predict([normalized])[0]
         result = {"text": text, "language": lang, "label": label, "error": None}
-    return templates.TemplateResponse("sentiment.html", {"request": request, "result": result})
+    return templates.TemplateResponse(request, "sentiment.html", {"result": result})

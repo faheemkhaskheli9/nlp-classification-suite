@@ -1,0 +1,25 @@
+{% extends "_base.html" %}
+{% block title %}Evaluate on a real dataset{% endblock %}
+{% block content %}
+<h1>Evaluate on a real dataset</h1>
+<p>Train and evaluate the TF-IDF + Logistic Regression baseline on the bundled
+60-row sample, or upload a CSV with <code>question_text</code>/<code>target</code>
+columns (e.g. a real Kaggle Insincere Questions export) to see metrics at a
+larger, differently-balanced scale.</p>
+<form method="post" action="/quora/evaluate" enctype="multipart/form-data">
+  <label for="dataset">CSV file (optional -- leave empty for the bundled sample)</label>
+  <input type="file" id="dataset" name="dataset" accept=".csv">
+  <button type="submit">Evaluate</button>
+</form>
+{% if error %}
+<div class="result error"><strong>{{ error }}</strong></div>
+{% endif %}
+{% if metrics %}
+<div class="result">
+  <p>Source: <strong>{{ metrics.source }}</strong> ({{ metrics.n_rows }} rows)</p>
+  <p>Held-out precision={{ "%.3f"|format(metrics.precision) }}
+     recall={{ "%.3f"|format(metrics.recall) }}
+     f1={{ "%.3f"|format(metrics.f1) }} (n={{ metrics.support }})</p>
+</div>
+{% endif %}
+{% endblock %}

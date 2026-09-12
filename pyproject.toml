@@ -8,14 +8,14 @@ dependencies = [
     "joblib>=1.3,<2",
     "transformers>=4.38",
     "torch>=2.1",
-    "fastapi>=0.110",
+    "fastapi>=0.108",
     "uvicorn[standard]>=0.29",
     "jinja2>=3.1",
     "python-multipart>=0.0.9",
 ]
 
 [project.optional-dependencies]
-dev = ["pytest>=7.4"]
+dev = ["pytest>=7.4", "httpx>=0.27"]
 
 [project.scripts]
 nlp-suite = "nlp_suite.__main__:main"

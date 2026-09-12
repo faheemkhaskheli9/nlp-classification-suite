@@ -8,10 +8,14 @@ transformers>=4.38
 torch>=2.1
 
 # Dashboard UI
-fastapi>=0.110
+# fastapi>=0.108 pulls in a starlette whose Jinja2Templates.TemplateResponse
+# requires `request` as the first positional arg (the old
+# TemplateResponse(name, {"request": request, ...}) form breaks against it).
+fastapi>=0.108
 uvicorn[standard]>=0.29
 jinja2>=3.1
 python-multipart>=0.0.9
 
 # Testing
 pytest>=7.4
+httpx>=0.27

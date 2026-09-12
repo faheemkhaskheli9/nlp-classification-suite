@@ -1,0 +1,391 @@
+qid,question_text,target
+eq0332,Isn't it obvious that everyone into hiking is a total fraud?,1
+eq0165,How much time does it usually take to get good at running?,0
+eq0098,"What are the health benefits, if any, of practicing photography regularly?",0
+eq0134,What are the most common mistakes people make when starting biology?,0
+eq0015,How much time does it usually take to get good at machine learning?,0
+eq0276,What equipment do I need to get started with robotics?,0
+eq0285,How much time does it usually take to get good at poetry?,0
+eq0013,Can you recommend a good book about machine learning?,0
+eq0185,How much time does it usually take to get good at meditation?,0
+eq0304,Why are people who like machine learning such obvious idiots?,1
+eq0167,Is it worth taking a class for running or is self-study enough?,0
+eq0265,How much time does it usually take to get good at fermentation?,0
+eq0187,Is it worth taking a class for meditation or is self-study enough?,0
+eq0384,Why do robotics fans always lie about how good they are???,1
+eq0292,How does juggling actually work under the hood?,0
+eq0135,How much time does it usually take to get good at biology?,0
+eq0066,What equipment do I need to get started with astronomy?,0
+eq0118,"What are the health benefits, if any, of practicing painting regularly?",0
+eq0264,What are the most common mistakes people make when starting fermentation?,0
+eq0099,How do professionals in photography keep improving over the years?,0
+eq0235,How much time does it usually take to get good at cycling?,0
+eq0055,How much time does it usually take to get good at chess?,0
+eq0278,"What are the health benefits, if any, of practicing robotics regularly?",0
+eq0130,What's a realistic first-month goal when starting economics?,0
+eq0172,How does sailing actually work under the hood?,0
+eq0353,Isn't it obvious that everyone into sailing is a total fraud?,1
+eq0217,Is it worth taking a class for pottery or is self-study enough?,0
+eq0156,What equipment do I need to get started with carpentry?,0
+eq0107,Is it worth taking a class for hiking or is self-study enough?,0
+eq0141,What is the best way to learn chemistry as a complete beginner?,0
+eq0005,How much time does it usually take to get good at Python?,0
+eq0041,What is the best way to learn history as a complete beginner?,0
+eq0325,Why are people who like yoga such obvious idiots?,1
+eq0274,What are the most common mistakes people make when starting robotics?,0
+eq0162,How does running actually work under the hood?,0
+eq0196,What equipment do I need to get started with calligraphy?,0
+eq0350,Isn't it obvious that everyone into running is a total fraud?,1
+eq0126,What equipment do I need to get started with economics?,0
+eq0147,Is it worth taking a class for chemistry or is self-study enough?,0
+eq0010,What's a realistic first-month goal when starting Python?,0
+eq0226,What equipment do I need to get started with birdwatching?,0
+eq0321,Why do astronomy fans always lie about how good they are???,1
+eq0280,What's a realistic first-month goal when starting robotics?,0
+eq0164,What are the most common mistakes people make when starting running?,0
+eq0288,"What are the health benefits, if any, of practicing poetry regularly?",0
+eq0057,Is it worth taking a class for chess or is self-study enough?,0
+eq0153,Can you recommend a good book about carpentry?,0
+eq0329,Isn't it obvious that everyone into photography is a total fraud?,1
+eq0100,What's a realistic first-month goal when starting photography?,0
+eq0291,What is the best way to learn juggling as a complete beginner?,0
+eq0366,Why do pottery fans always lie about how good they are???,1
+eq0009,How do professionals in Python keep improving over the years?,0
+eq0224,What are the most common mistakes people make when starting birdwatching?,0
+eq0035,How much time does it usually take to get good at gardening?,0
+eq0063,Can you recommend a good book about astronomy?,0
+eq0170,What's a realistic first-month goal when starting running?,0
+eq0297,Is it worth taking a class for juggling or is self-study enough?,0
+eq0209,How do professionals in beekeeping keep improving over the years?,0
+eq0104,What are the most common mistakes people make when starting hiking?,0
+eq0324,Why do guitar fans always lie about how good they are???,1
+eq0081,What is the best way to learn yoga as a complete beginner?,0
+eq0070,What's a realistic first-month goal when starting astronomy?,0
+eq0242,How does origami actually work under the hood?,0
+eq0105,How much time does it usually take to get good at hiking?,0
+eq0028,"What are the health benefits, if any, of practicing cooking regularly?",0
+eq0386,Isn't it obvious that everyone into poetry is a total fraud?,1
+eq0096,What equipment do I need to get started with photography?,0
+eq0208,"What are the health benefits, if any, of practicing beekeeping regularly?",0
+eq0250,What's a realistic first-month goal when starting origami?,0
+eq0181,What is the best way to learn meditation as a complete beginner?,0
+eq0241,What is the best way to learn origami as a complete beginner?,0
+eq0003,Can you recommend a good book about Python?,0
+eq0266,What equipment do I need to get started with fermentation?,0
+eq0075,How much time does it usually take to get good at guitar?,0
+eq0262,How does fermentation actually work under the hood?,0
+eq0378,Why do knitting fans always lie about how good they are???,1
+eq0109,How do professionals in hiking keep improving over the years?,0
+eq0232,How does cycling actually work under the hood?,0
+eq0236,What equipment do I need to get started with cycling?,0
+eq0356,Isn't it obvious that everyone into meditation is a total fraud?,1
+eq0338,Isn't it obvious that everyone into economics is a total fraud?,1
+eq0091,What is the best way to learn photography as a complete beginner?,0
+eq0076,What equipment do I need to get started with guitar?,0
+eq0377,Isn't it obvious that everyone into knitting is a total fraud?,1
+eq0248,"What are the health benefits, if any, of practicing origami regularly?",0
+eq0017,Is it worth taking a class for machine learning or is self-study enough?,0
+eq0173,Can you recommend a good book about sailing?,0
+eq0301,Why are people who like Python such obvious idiots?,1
+eq0331,Why are people who like hiking such obvious idiots?,1
+eq0160,What's a realistic first-month goal when starting carpentry?,0
+eq0249,How do professionals in origami keep improving over the years?,0
+eq0051,What is the best way to learn chess as a complete beginner?,0
+eq0336,Why do painting fans always lie about how good they are???,1
+eq0152,How does carpentry actually work under the hood?,0
+eq0341,Isn't it obvious that everyone into biology is a total fraud?,1
+eq0056,What equipment do I need to get started with chess?,0
+eq0023,Can you recommend a good book about cooking?,0
+eq0111,What is the best way to learn painting as a complete beginner?,0
+eq0256,What equipment do I need to get started with knitting?,0
+eq0382,Why are people who like robotics such obvious idiots?,1
+eq0352,Why are people who like sailing such obvious idiots?,1
+eq0307,Why are people who like cooking such obvious idiots?,1
+eq0131,What is the best way to learn biology as a complete beginner?,0
+eq0210,What's a realistic first-month goal when starting beekeeping?,0
+eq0370,Why are people who like cycling such obvious idiots?,1
+eq0261,What is the best way to learn fermentation as a complete beginner?,0
+eq0083,Can you recommend a good book about yoga?,0
+eq0142,How does chemistry actually work under the hood?,0
+eq0376,Why are people who like knitting such obvious idiots?,1
+eq0084,What are the most common mistakes people make when starting yoga?,0
+eq0116,What equipment do I need to get started with painting?,0
+eq0199,How do professionals in calligraphy keep improving over the years?,0
+eq0326,Isn't it obvious that everyone into yoga is a total fraud?,1
+eq0079,How do professionals in guitar keep improving over the years?,0
+eq0227,Is it worth taking a class for birdwatching or is self-study enough?,0
+eq0379,Why are people who like fermentation such obvious idiots?,1
+eq0171,What is the best way to learn sailing as a complete beginner?,0
+eq0044,What are the most common mistakes people make when starting history?,0
+eq0257,Is it worth taking a class for knitting or is self-study enough?,0
+eq0309,Why do cooking fans always lie about how good they are???,1
+eq0179,How do professionals in sailing keep improving over the years?,0
+eq0315,Why do history fans always lie about how good they are???,1
+eq0270,What's a realistic first-month goal when starting fermentation?,0
+eq0011,What is the best way to learn machine learning as a complete beginner?,0
+eq0244,What are the most common mistakes people make when starting origami?,0
+eq0282,How does poetry actually work under the hood?,0
+eq0228,"What are the health benefits, if any, of practicing birdwatching regularly?",0
+eq0090,What's a realistic first-month goal when starting yoga?,0
+eq0365,Isn't it obvious that everyone into pottery is a total fraud?,1
+eq0258,"What are the health benefits, if any, of practicing knitting regularly?",0
+eq0340,Why are people who like biology such obvious idiots?,1
+eq0183,Can you recommend a good book about meditation?,0
+eq0121,What is the best way to learn economics as a complete beginner?,0
+eq0072,How does guitar actually work under the hood?,0
+eq0189,How do professionals in meditation keep improving over the years?,0
+eq0008,"What are the health benefits, if any, of practicing Python regularly?",0
+eq0245,How much time does it usually take to get good at origami?,0
+eq0271,What is the best way to learn robotics as a complete beginner?,0
+eq0202,How does beekeeping actually work under the hood?,0
+eq0052,How does chess actually work under the hood?,0
+eq0059,How do professionals in chess keep improving over the years?,0
+eq0211,What is the best way to learn pottery as a complete beginner?,0
+eq0062,How does astronomy actually work under the hood?,0
+eq0337,Why are people who like economics such obvious idiots?,1
+eq0150,What's a realistic first-month goal when starting chemistry?,0
+eq0306,Why do machine learning fans always lie about how good they are???,1
+eq0129,How do professionals in economics keep improving over the years?,0
+eq0367,Why are people who like birdwatching such obvious idiots?,1
+eq0238,"What are the health benefits, if any, of practicing cycling regularly?",0
+eq0058,"What are the health benefits, if any, of practicing chess regularly?",0
+eq0092,How does photography actually work under the hood?,0
+eq0043,Can you recommend a good book about history?,0
+eq0279,How do professionals in robotics keep improving over the years?,0
+eq0390,Why do juggling fans always lie about how good they are???,1
+eq0272,How does robotics actually work under the hood?,0
+eq0355,Why are people who like meditation such obvious idiots?,1
+eq0077,Is it worth taking a class for guitar or is self-study enough?,0
+eq0364,Why are people who like pottery such obvious idiots?,1
+eq0192,How does calligraphy actually work under the hood?,0
+eq0140,What's a realistic first-month goal when starting biology?,0
+eq0240,What's a realistic first-month goal when starting cycling?,0
+eq0320,Isn't it obvious that everyone into astronomy is a total fraud?,1
+eq0136,What equipment do I need to get started with biology?,0
+eq0343,Why are people who like chemistry such obvious idiots?,1
+eq0006,What equipment do I need to get started with Python?,0
+eq0133,Can you recommend a good book about biology?,0
+eq0231,What is the best way to learn cycling as a complete beginner?,0
+eq0305,Isn't it obvious that everyone into machine learning is a total fraud?,1
+eq0387,Why do poetry fans always lie about how good they are???,1
+eq0388,Why are people who like juggling such obvious idiots?,1
+eq0222,How does birdwatching actually work under the hood?,0
+eq0037,Is it worth taking a class for gardening or is self-study enough?,0
+eq0314,Isn't it obvious that everyone into history is a total fraud?,1
+eq0080,What's a realistic first-month goal when starting guitar?,0
+eq0246,What equipment do I need to get started with origami?,0
+eq0123,Can you recommend a good book about economics?,0
+eq0120,What's a realistic first-month goal when starting painting?,0
+eq0247,Is it worth taking a class for origami or is self-study enough?,0
+eq0380,Isn't it obvious that everyone into fermentation is a total fraud?,1
+eq0345,Why do chemistry fans always lie about how good they are???,1
+eq0122,How does economics actually work under the hood?,0
+eq0194,What are the most common mistakes people make when starting calligraphy?,0
+eq0155,How much time does it usually take to get good at carpentry?,0
+eq0089,How do professionals in yoga keep improving over the years?,0
+eq0065,How much time does it usually take to get good at astronomy?,0
+eq0212,How does pottery actually work under the hood?,0
+eq0197,Is it worth taking a class for calligraphy or is self-study enough?,0
+eq0339,Why do economics fans always lie about how good they are???,1
+eq0193,Can you recommend a good book about calligraphy?,0
+eq0207,Is it worth taking a class for beekeeping or is self-study enough?,0
+eq0019,How do professionals in machine learning keep improving over the years?,0
+eq0007,Is it worth taking a class for Python or is self-study enough?,0
+eq0346,Why are people who like carpentry such obvious idiots?,1
+eq0094,What are the most common mistakes people make when starting photography?,0
+eq0357,Why do meditation fans always lie about how good they are???,1
+eq0138,"What are the health benefits, if any, of practicing biology regularly?",0
+eq0252,How does knitting actually work under the hood?,0
+eq0284,What are the most common mistakes people make when starting poetry?,0
+eq0001,What is the best way to learn Python as a complete beginner?,0
+eq0214,What are the most common mistakes people make when starting pottery?,0
+eq0225,How much time does it usually take to get good at birdwatching?,0
+eq0316,Why are people who like chess such obvious idiots?,1
+eq0088,"What are the health benefits, if any, of practicing yoga regularly?",0
+eq0029,How do professionals in cooking keep improving over the years?,0
+eq0267,Is it worth taking a class for fermentation or is self-study enough?,0
+eq0113,Can you recommend a good book about painting?,0
+eq0054,What are the most common mistakes people make when starting chess?,0
+eq0018,"What are the health benefits, if any, of practicing machine learning regularly?",0
+eq0383,Isn't it obvious that everyone into robotics is a total fraud?,1
+eq0016,What equipment do I need to get started with machine learning?,0
+eq0302,Isn't it obvious that everyone into Python is a total fraud?,1
+eq0163,Can you recommend a good book about running?,0
+eq0372,Why do cycling fans always lie about how good they are???,1
+eq0027,Is it worth taking a class for cooking or is self-study enough?,0
+eq0369,Why do birdwatching fans always lie about how good they are???,1
+eq0103,Can you recommend a good book about hiking?,0
+eq0102,How does hiking actually work under the hood?,0
+eq0101,What is the best way to learn hiking as a complete beginner?,0
+eq0144,What are the most common mistakes people make when starting chemistry?,0
+eq0205,How much time does it usually take to get good at beekeeping?,0
+eq0360,Why do calligraphy fans always lie about how good they are???,1
+eq0200,What's a realistic first-month goal when starting calligraphy?,0
+eq0375,Why do origami fans always lie about how good they are???,1
+eq0117,Is it worth taking a class for painting or is self-study enough?,0
+eq0014,What are the most common mistakes people make when starting machine learning?,0
+eq0190,What's a realistic first-month goal when starting meditation?,0
+eq0174,What are the most common mistakes people make when starting sailing?,0
+eq0168,"What are the health benefits, if any, of practicing running regularly?",0
+eq0362,Isn't it obvious that everyone into beekeeping is a total fraud?,1
+eq0132,How does biology actually work under the hood?,0
+eq0220,What's a realistic first-month goal when starting pottery?,0
+eq0177,Is it worth taking a class for sailing or is self-study enough?,0
+eq0335,Isn't it obvious that everyone into painting is a total fraud?,1
+eq0082,How does yoga actually work under the hood?,0
+eq0145,How much time does it usually take to get good at chemistry?,0
+eq0157,Is it worth taking a class for carpentry or is self-study enough?,0
+eq0095,How much time does it usually take to get good at photography?,0
+eq0137,Is it worth taking a class for biology or is self-study enough?,0
+eq0108,"What are the health benefits, if any, of practicing hiking regularly?",0
+eq0310,Why are people who like gardening such obvious idiots?,1
+eq0002,How does Python actually work under the hood?,0
+eq0073,Can you recommend a good book about guitar?,0
+eq0068,"What are the health benefits, if any, of practicing astronomy regularly?",0
+eq0371,Isn't it obvious that everyone into cycling is a total fraud?,1
+eq0151,What is the best way to learn carpentry as a complete beginner?,0
+eq0259,How do professionals in knitting keep improving over the years?,0
+eq0319,Why are people who like astronomy such obvious idiots?,1
+eq0004,What are the most common mistakes people make when starting Python?,0
+eq0303,Why do Python fans always lie about how good they are???,1
+eq0169,How do professionals in running keep improving over the years?,0
+eq0349,Why are people who like running such obvious idiots?,1
+eq0268,"What are the health benefits, if any, of practicing fermentation regularly?",0
+eq0046,What equipment do I need to get started with history?,0
+eq0022,How does cooking actually work under the hood?,0
+eq0039,How do professionals in gardening keep improving over the years?,0
+eq0119,How do professionals in painting keep improving over the years?,0
+eq0195,How much time does it usually take to get good at calligraphy?,0
+eq0184,What are the most common mistakes people make when starting meditation?,0
+eq0213,Can you recommend a good book about pottery?,0
+eq0308,Isn't it obvious that everyone into cooking is a total fraud?,1
+eq0221,What is the best way to learn birdwatching as a complete beginner?,0
+eq0071,What is the best way to learn guitar as a complete beginner?,0
+eq0143,Can you recommend a good book about chemistry?,0
+eq0206,What equipment do I need to get started with beekeeping?,0
+eq0312,Why do gardening fans always lie about how good they are???,1
+eq0086,What equipment do I need to get started with yoga?,0
+eq0318,Why do chess fans always lie about how good they are???,1
+eq0342,Why do biology fans always lie about how good they are???,1
+eq0201,What is the best way to learn beekeeping as a complete beginner?,0
+eq0358,Why are people who like calligraphy such obvious idiots?,1
+eq0127,Is it worth taking a class for economics or is self-study enough?,0
+eq0067,Is it worth taking a class for astronomy or is self-study enough?,0
+eq0311,Isn't it obvious that everyone into gardening is a total fraud?,1
+eq0112,How does painting actually work under the hood?,0
+eq0333,Why do hiking fans always lie about how good they are???,1
+eq0253,Can you recommend a good book about knitting?,0
+eq0060,What's a realistic first-month goal when starting chess?,0
+eq0087,Is it worth taking a class for yoga or is self-study enough?,0
+eq0182,How does meditation actually work under the hood?,0
+eq0237,Is it worth taking a class for cycling or is self-study enough?,0
+eq0012,How does machine learning actually work under the hood?,0
+eq0178,"What are the health benefits, if any, of practicing sailing regularly?",0
+eq0198,"What are the health benefits, if any, of practicing calligraphy regularly?",0
+eq0146,What equipment do I need to get started with chemistry?,0
+eq0229,How do professionals in birdwatching keep improving over the years?,0
+eq0159,How do professionals in carpentry keep improving over the years?,0
+eq0361,Why are people who like beekeeping such obvious idiots?,1
+eq0034,What are the most common mistakes people make when starting gardening?,0
+eq0243,Can you recommend a good book about origami?,0
+eq0139,How do professionals in biology keep improving over the years?,0
+eq0048,"What are the health benefits, if any, of practicing history regularly?",0
+eq0373,Why are people who like origami such obvious idiots?,1
+eq0234,What are the most common mistakes people make when starting cycling?,0
+eq0330,Why do photography fans always lie about how good they are???,1
+eq0180,What's a realistic first-month goal when starting sailing?,0
+eq0175,How much time does it usually take to get good at sailing?,0
+eq0327,Why do yoga fans always lie about how good they are???,1
+eq0294,What are the most common mistakes people make when starting juggling?,0
+eq0354,Why do sailing fans always lie about how good they are???,1
+eq0040,What's a realistic first-month goal when starting gardening?,0
+eq0021,What is the best way to learn cooking as a complete beginner?,0
+eq0216,What equipment do I need to get started with pottery?,0
+eq0251,What is the best way to learn knitting as a complete beginner?,0
+eq0389,Isn't it obvious that everyone into juggling is a total fraud?,1
+eq0313,Why are people who like history such obvious idiots?,1
+eq0085,How much time does it usually take to get good at yoga?,0
+eq0351,Why do running fans always lie about how good they are???,1
+eq0263,Can you recommend a good book about fermentation?,0
+eq0348,Why do carpentry fans always lie about how good they are???,1
+eq0385,Why are people who like poetry such obvious idiots?,1
+eq0148,"What are the health benefits, if any, of practicing chemistry regularly?",0
+eq0230,What's a realistic first-month goal when starting birdwatching?,0
+eq0176,What equipment do I need to get started with sailing?,0
+eq0254,What are the most common mistakes people make when starting knitting?,0
+eq0269,How do professionals in fermentation keep improving over the years?,0
+eq0363,Why do beekeeping fans always lie about how good they are???,1
+eq0295,How much time does it usually take to get good at juggling?,0
+eq0042,How does history actually work under the hood?,0
+eq0125,How much time does it usually take to get good at economics?,0
+eq0344,Isn't it obvious that everyone into chemistry is a total fraud?,1
+eq0128,"What are the health benefits, if any, of practicing economics regularly?",0
+eq0154,What are the most common mistakes people make when starting carpentry?,0
+eq0186,What equipment do I need to get started with meditation?,0
+eq0233,Can you recommend a good book about cycling?,0
+eq0359,Isn't it obvious that everyone into calligraphy is a total fraud?,1
+eq0239,How do professionals in cycling keep improving over the years?,0
+eq0161,What is the best way to learn running as a complete beginner?,0
+eq0219,How do professionals in pottery keep improving over the years?,0
+eq0273,Can you recommend a good book about robotics?,0
+eq0255,How much time does it usually take to get good at knitting?,0
+eq0106,What equipment do I need to get started with hiking?,0
+eq0317,Isn't it obvious that everyone into chess is a total fraud?,1
+eq0368,Isn't it obvious that everyone into birdwatching is a total fraud?,1
+eq0289,How do professionals in poetry keep improving over the years?,0
+eq0033,Can you recommend a good book about gardening?,0
+eq0281,What is the best way to learn poetry as a complete beginner?,0
+eq0050,What's a realistic first-month goal when starting history?,0
+eq0191,What is the best way to learn calligraphy as a complete beginner?,0
+eq0097,Is it worth taking a class for photography or is self-study enough?,0
+eq0328,Why are people who like photography such obvious idiots?,1
+eq0347,Isn't it obvious that everyone into carpentry is a total fraud?,1
+eq0298,"What are the health benefits, if any, of practicing juggling regularly?",0
+eq0053,Can you recommend a good book about chess?,0
+eq0093,Can you recommend a good book about photography?,0
+eq0287,Is it worth taking a class for poetry or is self-study enough?,0
+eq0158,"What are the health benefits, if any, of practicing carpentry regularly?",0
+eq0293,Can you recommend a good book about juggling?,0
+eq0061,What is the best way to learn astronomy as a complete beginner?,0
+eq0277,Is it worth taking a class for robotics or is self-study enough?,0
+eq0074,What are the most common mistakes people make when starting guitar?,0
+eq0374,Isn't it obvious that everyone into origami is a total fraud?,1
+eq0149,How do professionals in chemistry keep improving over the years?,0
+eq0069,How do professionals in astronomy keep improving over the years?,0
+eq0286,What equipment do I need to get started with poetry?,0
+eq0024,What are the most common mistakes people make when starting cooking?,0
+eq0114,What are the most common mistakes people make when starting painting?,0
+eq0026,What equipment do I need to get started with cooking?,0
+eq0204,What are the most common mistakes people make when starting beekeeping?,0
+eq0300,What's a realistic first-month goal when starting juggling?,0
+eq0296,What equipment do I need to get started with juggling?,0
+eq0032,How does gardening actually work under the hood?,0
+eq0381,Why do fermentation fans always lie about how good they are???,1
+eq0322,Why are people who like guitar such obvious idiots?,1
+eq0323,Isn't it obvious that everyone into guitar is a total fraud?,1
+eq0115,How much time does it usually take to get good at painting?,0
+eq0064,What are the most common mistakes people make when starting astronomy?,0
+eq0290,What's a realistic first-month goal when starting poetry?,0
+eq0031,What is the best way to learn gardening as a complete beginner?,0
+eq0218,"What are the health benefits, if any, of practicing pottery regularly?",0
+eq0283,Can you recommend a good book about poetry?,0
+eq0047,Is it worth taking a class for history or is self-study enough?,0
+eq0124,What are the most common mistakes people make when starting economics?,0
+eq0036,What equipment do I need to get started with gardening?,0
+eq0215,How much time does it usually take to get good at pottery?,0
+eq0223,Can you recommend a good book about birdwatching?,0
+eq0045,How much time does it usually take to get good at history?,0
+eq0020,What's a realistic first-month goal when starting machine learning?,0
+eq0110,What's a realistic first-month goal when starting hiking?,0
+eq0260,What's a realistic first-month goal when starting knitting?,0
+eq0030,What's a realistic first-month goal when starting cooking?,0
+eq0299,How do professionals in juggling keep improving over the years?,0
+eq0188,"What are the health benefits, if any, of practicing meditation regularly?",0
+eq0049,How do professionals in history keep improving over the years?,0
+eq0275,How much time does it usually take to get good at robotics?,0
+eq0038,"What are the health benefits, if any, of practicing gardening regularly?",0
+eq0025,How much time does it usually take to get good at cooking?,0
+eq0334,Why are people who like painting such obvious idiots?,1
+eq0203,Can you recommend a good book about beekeeping?,0
+eq0078,"What are the health benefits, if any, of practicing guitar regularly?",0
+eq0166,What equipment do I need to get started with running?,0
