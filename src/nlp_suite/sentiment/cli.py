@@ -3,7 +3,8 @@
     python -m nlp_suite sentiment preprocess --text "No me gusta este producto"
     python -m nlp_suite sentiment preprocess --text "I love this!" --lang en
     python -m nlp_suite sentiment preprocess --file examples/sample_reviews.jsonl
-    python -m nlp_suite sentiment train-baseline examples/sentiment_dataset.jsonl
+    python -m nlp_suite sentiment train-baseline
+    python -m nlp_suite sentiment train-baseline --data examples/sentiment_extended_dataset.jsonl
 """
 from __future__ import annotations
 
@@ -12,7 +13,12 @@ import json
 import sys
 from pathlib import Path
 
-from .baseline import BaselineError, load_labeled_dataset, train_and_evaluate_all
+from .baseline import (
+    BUNDLED_SAMPLE_PATH,
+    BaselineError,
+    load_labeled_dataset,
+    train_and_evaluate_all,
+)
 from .finetune import DEFAULT_MODEL_NAME, FineTuneError, fine_tune
 from .preprocessing import PreprocessConfig, Preprocessor, ProcessedDoc
 
@@ -54,7 +60,7 @@ def _cmd_preprocess(args: argparse.Namespace) -> int:
 
 def _cmd_train_baseline(args: argparse.Namespace) -> int:
     try:
-        examples = load_labeled_dataset(args.path)
+        examples = load_labeled_dataset(args.data)
         results = train_and_evaluate_all(examples, languages=tuple(args.languages))
     except BaselineError as exc:
         print(f"error: {exc}", file=sys.stderr)
@@ -103,7 +109,14 @@ def build_parser() -> argparse.ArgumentParser:
     p_train = sub.add_parser(
         "train-baseline", help="Train/evaluate the classical TF-IDF baseline per language."
     )
-    p_train.add_argument("path", help="JSONL file of {text, label, lang?} records.")
+    p_train.add_argument(
+        "--data",
+        default=str(BUNDLED_SAMPLE_PATH),
+        help="JSONL file of {text, label, lang?} records "
+        "(default: the bundled 120-row public-domain sample). Point this at a "
+        "larger corpus, e.g. examples/sentiment_extended_dataset.jsonl, to "
+        "evaluate at a bigger, differently-balanced scale.",
+    )
     p_train.add_argument("--languages", nargs="+", default=["en", "es"])
     p_train.set_defaults(func=_cmd_train_baseline)
 

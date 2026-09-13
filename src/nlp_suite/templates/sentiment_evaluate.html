@@ -1,0 +1,34 @@
+{% extends "_base.html" %}
+{% block title %}Evaluate on a real dataset{% endblock %}
+{% block content %}
+<h1>Evaluate on a real dataset</h1>
+<p>Train and evaluate the per-language TF-IDF + Logistic Regression baseline on
+the bundled 120-row sample, or upload a JSONL file of
+<code>{text, label, lang}</code> records (e.g. a real, larger multilingual
+review corpus) to see metrics at a bigger scale.</p>
+<form method="post" action="/sentiment/evaluate" enctype="multipart/form-data">
+  <label for="dataset">JSONL file (optional -- leave empty for the bundled sample)</label>
+  <input type="file" id="dataset" name="dataset" accept=".jsonl">
+  <button type="submit">Evaluate</button>
+</form>
+{% if error %}
+<div class="result error"><strong>{{ error }}</strong></div>
+{% endif %}
+{% if results %}
+<div class="result">
+  <p>Source: <strong>{{ source }}</strong></p>
+  <table>
+    <tr><th>Language</th><th>n_train</th><th>n_test</th><th>accuracy</th><th>f1_macro</th></tr>
+    {% for r in results %}
+    <tr>
+      <td>{{ r.language }}</td>
+      <td>{{ r.n_train }}</td>
+      <td>{{ r.n_test }}</td>
+      <td>{{ "%.3f"|format(r.accuracy) }}</td>
+      <td>{{ "%.3f"|format(r.f1_macro) }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+{% endif %}
+{% endblock %}

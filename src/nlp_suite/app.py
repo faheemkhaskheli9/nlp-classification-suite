@@ -26,9 +26,11 @@ from fastapi.templating import Jinja2Templates
 
 from .quora.baseline import TfidfLogisticRegressionModel, load_dataset, train_baseline
 from .sentiment.baseline import (
+    BaselineError,
     build_pipeline,
     load_labeled_dataset,
     train_and_evaluate,
+    train_and_evaluate_all,
 )
 from .sentiment.preprocessing import Preprocessor, detect_language
 
@@ -42,6 +44,10 @@ QUORA_SAMPLE = EXAMPLES_DIR / "sample_questions.csv"
 # Point --data / the upload form at the real Kaggle download once available.
 QUORA_EXTENDED_SAMPLE = EXAMPLES_DIR / "quora_extended_sample.csv"
 SENTIMENT_SAMPLE = EXAMPLES_DIR / "sentiment_dataset.jsonl"
+# Stand-in for a real larger multilingual corpus (e.g. Hugging Face's
+# amazon_reviews_multi, en+es), which needs accepting Amazon's research-only
+# license to download -- same mock rationale as QUORA_EXTENDED_SAMPLE.
+SENTIMENT_EXTENDED_SAMPLE = EXAMPLES_DIR / "sentiment_extended_dataset.jsonl"
 
 app = FastAPI(title="NLP Classification Suite")
 templates = Jinja2Templates(directory=str(BASE_DIR / "templates"))
@@ -198,3 +204,68 @@ def sentiment_predict(request: Request, text: str = Form(...), language: str = F
         label = pipeline.predict([normalized])[0]
         result = {"text": text, "language": lang, "label": label, "error": None}
     return templates.TemplateResponse(request, "sentiment.html", {"result": result})
+
+
+@app.get("/sentiment/evaluate", response_class=HTMLResponse)
+def sentiment_evaluate_page(request: Request):
+    return templates.TemplateResponse(
+        request, "sentiment_evaluate.html", {"results": None, "error": None, "source": None}
+    )
+
+
+@app.post("/sentiment/evaluate", response_class=HTMLResponse)
+async def sentiment_evaluate(request: Request, dataset: UploadFile | None = None):
+    """Train/evaluate on an uploaded JSONL corpus instead of only the bundled sample.
+
+    With no file (or an empty filename), evaluates on the bundled 120-row
+    sample. A JSONL upload lets a user point at a larger real corpus (e.g. a
+    downloaded amazon_reviews_multi export in the same {text, label, lang}
+    schema) without touching the CLI -- read into a temp file, like
+    /quora/evaluate, so `load_labeled_dataset`'s validation applies identically
+    to both paths.
+    """
+    source_label = "bundled sample (examples/sentiment_dataset.jsonl)"
+    dataset_path = SENTIMENT_SAMPLE
+    tmp_path: Path | None = None
+
+    if dataset is not None and dataset.filename:
+        raw = await dataset.read()
+        with tempfile.NamedTemporaryFile(
+            mode="wb", suffix=".jsonl", delete=False
+        ) as handle:
+            handle.write(raw)
+            tmp_path = Path(handle.name)
+        dataset_path = tmp_path
+        source_label = f"uploaded file ({dataset.filename})"
+
+    try:
+        examples = load_labeled_dataset(dataset_path)
+        eval_results = train_and_evaluate_all(examples)
+    except BaselineError as exc:
+        return templates.TemplateResponse(
+            request,
+            "sentiment_evaluate.html",
+            {"results": None, "error": str(exc), "source": None},
+        )
+    finally:
+        if tmp_path is not None:
+            tmp_path.unlink(missing_ok=True)
+
+    return templates.TemplateResponse(
+        request,
+        "sentiment_evaluate.html",
+        {
+            "error": None,
+            "source": f"{source_label} ({len(examples)} rows)",
+            "results": [
+                {
+                    "language": lang,
+                    "n_train": r.n_train,
+                    "n_test": r.n_test,
+                    "accuracy": r.accuracy,
+                    "f1_macro": r.f1_macro,
+                }
+                for lang, r in eval_results.items()
+            ],
+        },
+    )

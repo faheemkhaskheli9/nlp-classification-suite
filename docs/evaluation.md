@@ -28,7 +28,8 @@ python -m nlp_suite sentiment finetune examples/sentiment_dataset.jsonl
 
 | Date | Feature | Config | Metric | Value | Notes |
 |------|---------|--------|--------|-------|-------|
-|      |         |        |        |       |       |
+| 2026-09-13 | sentiment | `--data examples/sentiment_extended_dataset.jsonl` (en) | accuracy / f1_macro | 1.000 / 1.000 | 640-row stand-in corpus, template-generated so classes are linearly separable -- a sanity check that `--data`/upload wiring trains at a larger scale, not a real-world benchmark |
+| 2026-09-13 | sentiment | `--data examples/sentiment_extended_dataset.jsonl` (es) | accuracy / f1_macro | 1.000 / 1.000 | same corpus, Spanish subset |
 
 Numbers from the bundled example datasets (60 rows for `quora`, 120 rows for
 `sentiment`) are sanity checks, not benchmarks -- swap in the real Kaggle

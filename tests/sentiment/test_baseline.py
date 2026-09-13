@@ -130,3 +130,18 @@ def test_shipped_dataset_trains_both_languages():
     assert set(results) == {"en", "es"}
     for result in results.values():
         assert result.n_test > 0
+
+
+def test_shipped_extended_dataset_is_larger_and_trains_both_languages():
+    """Smoke test against the larger stand-in corpus (issue #3)."""
+    from pathlib import Path
+
+    base = Path(__file__).resolve().parents[2] / "examples"
+    bundled = load_labeled_dataset(base / "sentiment_dataset.jsonl")
+    extended = load_labeled_dataset(base / "sentiment_extended_dataset.jsonl")
+
+    assert len(extended) > len(bundled)
+    results = train_and_evaluate_all(extended)
+    assert set(results) == {"en", "es"}
+    for result in results.values():
+        assert result.n_test > 0

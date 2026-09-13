@@ -5,12 +5,26 @@ and even what counts as a "token" differ between English and Spanish (see
 ``src/preprocessing.py``), so pooling languages into a single TF-IDF vocabulary
 would dilute both. Each language gets its own `TfidfVectorizer` + `LogisticRegression`
 pipeline, trained and evaluated independently.
+
+``examples/sentiment_dataset.jsonl`` (120 rows, the default) is a small,
+self-authored, public-domain sample with the same schema as a real larger
+multilingual corpus -- e.g. the Hugging Face ``amazon_reviews_multi`` dataset,
+which covers English and Spanish reviews but is distributed under Amazon's
+own research-only license and requires accepting those terms to download, so
+it isn't shipped or fetched here. ``examples/sentiment_extended_dataset.jsonl``
+(640 rows) is a bigger self-authored stand-in with the same
+``{text, label, lang}`` schema, for exercising the pipeline at a larger scale
+without external credentials; point ``--data``/the web upload at the real
+corpus once downloaded locally, since ``load_labeled_dataset`` only cares
+about the JSONL schema, not where the file came from.
 """
 from __future__ import annotations
 
 import json
 from dataclasses import dataclass
 from pathlib import Path
+
+BUNDLED_SAMPLE_PATH = Path(__file__).resolve().parents[3] / "examples" / "sentiment_dataset.jsonl"
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression

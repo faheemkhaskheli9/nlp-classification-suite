@@ -1,0 +1,640 @@
+{"id": "ext-en-neg-173", "lang": "en", "text": "Terrible jacket! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-pos-583", "lang": "es", "text": "Fantástico colchón, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-neg-220", "lang": "en", "text": "Worst printer I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-neg-286", "lang": "en", "text": "The toaster is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-pos-358", "lang": "es", "text": "El auriculares funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-neg-494", "lang": "es", "text": "El chaqueta es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-en-neg-222", "lang": "en", "text": "The printer is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-pos-308", "lang": "en", "text": "Best umbrella I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-pos-119", "lang": "en", "text": "Fantastic keyboard, worth every penny.", "label": "positive"}
+{"id": "ext-es-pos-485", "lang": "es", "text": "¡Increíble chaqueta! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-315", "lang": "en", "text": "I'm very disappointed with this umbrella, it stopped working.", "label": "negative"}
+{"id": "ext-es-neg-410", "lang": "es", "text": "Horrible altavoz, no lo compren.", "label": "negative"}
+{"id": "ext-es-pos-530", "lang": "es", "text": "Excelente impresora, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-pos-514", "lang": "es", "text": "Excelente aspiradora, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-neg-63", "lang": "en", "text": "Complete waste of money, this camera is garbage.", "label": "negative"}
+{"id": "ext-en-pos-163", "lang": "en", "text": "I'm really happy with this jacket, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-neg-13", "lang": "en", "text": "Terrible phone! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-pos-503", "lang": "es", "text": "Fantástico licuadora, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-neg-543", "lang": "es", "text": "Pérdida total de dinero, este impresora es basura.", "label": "negative"}
+{"id": "ext-en-pos-280", "lang": "en", "text": "This toaster works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-neg-93", "lang": "en", "text": "Terrible speaker! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-558", "lang": "es", "text": "El router es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-en-pos-24", "lang": "en", "text": "This laptop works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-neg-587", "lang": "es", "text": "Estoy muy decepcionado con este colchón, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-231", "lang": "en", "text": "Fantastic router, worth every penny.", "label": "positive"}
+{"id": "ext-es-neg-377", "lang": "es", "text": "Este cámara se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-neg-137", "lang": "en", "text": "This monitor broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-neg-288", "lang": "en", "text": "This toaster is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-es-neg-336", "lang": "es", "text": "Este teléfono es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-15", "lang": "en", "text": "Complete waste of money, this phone is garbage.", "label": "negative"}
+{"id": "ext-es-neg-554", "lang": "es", "text": "Horrible router, no lo compren.", "label": "negative"}
+{"id": "ext-es-pos-326", "lang": "es", "text": "El teléfono funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-196", "lang": "en", "text": "Best vacuum I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-neg-141", "lang": "en", "text": "Terrible monitor! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-511", "lang": "es", "text": "Pérdida total de dinero, este licuadora es basura.", "label": "negative"}
+{"id": "ext-es-pos-487", "lang": "es", "text": "Fantástico chaqueta, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-neg-478", "lang": "es", "text": "El mochila es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-321", "lang": "es", "text": "¡Este teléfono es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-379", "lang": "es", "text": "Estoy muy decepcionado con este cámara, dejó de funcionar.", "label": "negative"}
+{"id": "ext-es-neg-539", "lang": "es", "text": "Estoy muy decepcionado con este impresora, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-262", "lang": "en", "text": "The mattress performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-602", "lang": "es", "text": "Horrible tostadora, no lo compren.", "label": "negative"}
+{"id": "ext-en-neg-267", "lang": "en", "text": "I'm very disappointed with this mattress, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-216", "lang": "en", "text": "This printer works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-neg-367", "lang": "es", "text": "Pérdida total de dinero, este auriculares es basura.", "label": "negative"}
+{"id": "ext-en-neg-318", "lang": "en", "text": "The umbrella is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-pos-434", "lang": "es", "text": "Excelente teclado, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-neg-507", "lang": "es", "text": "Estoy muy decepcionado con este licuadora, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-132", "lang": "en", "text": "Best monitor I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-pos-88", "lang": "en", "text": "This speaker works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-53", "lang": "en", "text": "Excellent camera! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-en-neg-9", "lang": "en", "text": "This phone broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-neg-398", "lang": "es", "text": "El tableta es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-568", "lang": "es", "text": "Este cargador funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-es-pos-596", "lang": "es", "text": "El mejor tostadora que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-neg-16", "lang": "en", "text": "This phone is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-298", "lang": "en", "text": "Awful shoes, do not buy this.", "label": "negative"}
+{"id": "ext-en-neg-139", "lang": "en", "text": "I'm very disappointed with this monitor, it stopped working.", "label": "negative"}
+{"id": "ext-en-neg-283", "lang": "en", "text": "I'm very disappointed with this toaster, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-34", "lang": "en", "text": "Great headphones, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-pos-598", "lang": "es", "text": "El tostadora funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-70", "lang": "en", "text": "The tablet performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-459", "lang": "es", "text": "Estoy muy decepcionado con este monitor, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-neg-316", "lang": "en", "text": "Worst umbrella I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-524", "lang": "es", "text": "El peor aspiradora que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-neg-14", "lang": "en", "text": "The phone is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-523", "lang": "es", "text": "Estoy muy decepcionado con este aspiradora, dejó de funcionar.", "label": "negative"}
+{"id": "ext-es-neg-592", "lang": "es", "text": "Este colchón es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-pos-120", "lang": "en", "text": "This keyboard works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-117", "lang": "en", "text": "Excellent keyboard! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-neg-589", "lang": "es", "text": "¡Terrible colchón! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-pos-423", "lang": "es", "text": "Fantástico reloj, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-neg-25", "lang": "en", "text": "This laptop broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-neg-572", "lang": "es", "text": "El peor cargador que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-pos-626", "lang": "es", "text": "Excelente paraguas, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-pos-184", "lang": "en", "text": "This blender works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-pos-435", "lang": "es", "text": "Estoy muy contento con este teclado, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-neg-400", "lang": "es", "text": "Este tableta es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-281", "lang": "en", "text": "This toaster broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-pos-6", "lang": "en", "text": "The phone performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-pos-532", "lang": "es", "text": "El mejor impresora que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-pos-19", "lang": "en", "text": "I'm really happy with this laptop, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-404", "lang": "es", "text": "El mejor altavoz que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-pos-467", "lang": "es", "text": "Estoy muy contento con este mochila, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-pos-210", "lang": "en", "text": "Great printer, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-pos-360", "lang": "es", "text": "Este auriculares funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-255", "lang": "en", "text": "Complete waste of money, this charger is garbage.", "label": "negative"}
+{"id": "ext-en-neg-43", "lang": "en", "text": "I'm very disappointed with this headphones, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-135", "lang": "en", "text": "Fantastic monitor, worth every penny.", "label": "positive"}
+{"id": "ext-es-pos-584", "lang": "es", "text": "Este colchón funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-pos-97", "lang": "en", "text": "This watch is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-452", "lang": "es", "text": "El mejor monitor que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-neg-346", "lang": "es", "text": "Horrible portátil, no lo compren.", "label": "negative"}
+{"id": "ext-en-neg-223", "lang": "en", "text": "Complete waste of money, this printer is garbage.", "label": "negative"}
+{"id": "ext-es-neg-378", "lang": "es", "text": "Horrible cámara, no lo compren.", "label": "negative"}
+{"id": "ext-en-pos-22", "lang": "en", "text": "The laptop performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-586", "lang": "es", "text": "Horrible colchón, no lo compren.", "label": "negative"}
+{"id": "ext-es-neg-365", "lang": "es", "text": "¡Terrible auriculares! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-pos-455", "lang": "es", "text": "Fantástico monitor, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-pos-309", "lang": "en", "text": "Excellent umbrella! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-482", "lang": "es", "text": "Excelente chaqueta, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-neg-553", "lang": "es", "text": "Este router se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-pos-198", "lang": "en", "text": "The vacuum performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-384", "lang": "es", "text": "Este cámara es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-208", "lang": "en", "text": "This vacuum is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-133", "lang": "en", "text": "Excellent monitor! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-en-neg-78", "lang": "en", "text": "The tablet is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-75", "lang": "en", "text": "I'm very disappointed with this tablet, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-101", "lang": "en", "text": "Excellent watch! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-594", "lang": "es", "text": "Excelente tostadora, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-neg-394", "lang": "es", "text": "Horrible tableta, no lo compren.", "label": "negative"}
+{"id": "ext-es-pos-424", "lang": "es", "text": "Este reloj funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-187", "lang": "en", "text": "I'm very disappointed with this blender, it stopped working.", "label": "negative"}
+{"id": "ext-es-pos-600", "lang": "es", "text": "Este tostadora funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-107", "lang": "en", "text": "I'm very disappointed with this watch, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-71", "lang": "en", "text": "Fantastic tablet, worth every penny.", "label": "positive"}
+{"id": "ext-en-neg-188", "lang": "en", "text": "Worst blender I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-neg-238", "lang": "en", "text": "The router is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-73", "lang": "en", "text": "This tablet broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-neg-185", "lang": "en", "text": "This blender broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-neg-266", "lang": "en", "text": "Awful mattress, do not buy this.", "label": "negative"}
+{"id": "ext-es-neg-442", "lang": "es", "text": "Horrible teclado, no lo compren.", "label": "negative"}
+{"id": "ext-es-neg-329", "lang": "es", "text": "Este teléfono se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-pos-87", "lang": "en", "text": "Fantastic speaker, worth every penny.", "label": "positive"}
+{"id": "ext-en-pos-151", "lang": "en", "text": "Fantastic backpack, worth every penny.", "label": "positive"}
+{"id": "ext-en-neg-254", "lang": "en", "text": "The charger is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-201", "lang": "en", "text": "This vacuum broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-pos-516", "lang": "es", "text": "El mejor aspiradora que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-pos-194", "lang": "en", "text": "Great vacuum, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-neg-636", "lang": "es", "text": "El peor paraguas que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-neg-76", "lang": "en", "text": "Worst tablet I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-pos-582", "lang": "es", "text": "El colchón funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-84", "lang": "en", "text": "Best speaker I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-pos-213", "lang": "en", "text": "Excellent printer! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-472", "lang": "es", "text": "Este mochila funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-pos-130", "lang": "en", "text": "Great monitor, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-77", "lang": "en", "text": "Terrible tablet! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-pos-341", "lang": "es", "text": "¡Increíble portátil! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-pos-534", "lang": "es", "text": "El impresora funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-248", "lang": "en", "text": "This charger works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-neg-269", "lang": "en", "text": "Terrible mattress! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-383", "lang": "es", "text": "Pérdida total de dinero, este cámara es basura.", "label": "negative"}
+{"id": "ext-es-neg-623", "lang": "es", "text": "Pérdida total de dinero, este zapatos es basura.", "label": "negative"}
+{"id": "ext-es-pos-499", "lang": "es", "text": "Estoy muy contento con este licuadora, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-neg-425", "lang": "es", "text": "Este reloj se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-neg-461", "lang": "es", "text": "¡Terrible monitor! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-neg-496", "lang": "es", "text": "Este chaqueta es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-156", "lang": "en", "text": "Worst backpack I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-526", "lang": "es", "text": "El aspiradora es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-469", "lang": "es", "text": "¡Increíble mochila! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-pos-551", "lang": "es", "text": "Fantástico router, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-pos-148", "lang": "en", "text": "Best backpack I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-386", "lang": "es", "text": "Excelente tableta, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-pos-577", "lang": "es", "text": "¡Este colchón es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-pos-199", "lang": "en", "text": "Fantastic vacuum, worth every penny.", "label": "positive"}
+{"id": "ext-en-pos-212", "lang": "en", "text": "Best printer I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-neg-351", "lang": "es", "text": "Pérdida total de dinero, este portátil es basura.", "label": "negative"}
+{"id": "ext-en-neg-89", "lang": "en", "text": "This speaker broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-neg-396", "lang": "es", "text": "El peor tableta que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-neg-153", "lang": "en", "text": "This backpack broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-pos-193", "lang": "en", "text": "This vacuum is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-neg-191", "lang": "en", "text": "Complete waste of money, this blender is garbage.", "label": "negative"}
+{"id": "ext-es-pos-546", "lang": "es", "text": "Excelente router, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-pos-149", "lang": "en", "text": "Excellent backpack! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-552", "lang": "es", "text": "Este router funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-256", "lang": "en", "text": "This charger is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-es-neg-332", "lang": "es", "text": "El peor teléfono que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-pos-369", "lang": "es", "text": "¡Este cámara es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-pos-178", "lang": "en", "text": "Great blender, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-138", "lang": "en", "text": "Awful monitor, do not buy this.", "label": "negative"}
+{"id": "ext-en-neg-314", "lang": "en", "text": "Awful umbrella, do not buy this.", "label": "negative"}
+{"id": "ext-en-pos-131", "lang": "en", "text": "I'm really happy with this monitor, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-pos-165", "lang": "en", "text": "Excellent jacket! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-501", "lang": "es", "text": "¡Increíble licuadora! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-pos-500", "lang": "es", "text": "El mejor licuadora que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-pos-18", "lang": "en", "text": "Great laptop, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-neg-382", "lang": "es", "text": "El cámara es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-359", "lang": "es", "text": "Fantástico auriculares, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-pos-454", "lang": "es", "text": "El monitor funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-pos-405", "lang": "es", "text": "¡Increíble altavoz! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-169", "lang": "en", "text": "This jacket broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-pos-437", "lang": "es", "text": "¡Increíble teclado! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-neg-491", "lang": "es", "text": "Estoy muy decepcionado con este chaqueta, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-neg-59", "lang": "en", "text": "I'm very disappointed with this camera, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-241", "lang": "en", "text": "This charger is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-632", "lang": "es", "text": "Este paraguas funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-es-neg-428", "lang": "es", "text": "El peor reloj que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-neg-320", "lang": "en", "text": "This umbrella is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-57", "lang": "en", "text": "This camera broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-pos-325", "lang": "es", "text": "¡Increíble teléfono! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-236", "lang": "en", "text": "Worst router I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-347", "lang": "es", "text": "Estoy muy decepcionado con este portátil, dejó de funcionar.", "label": "negative"}
+{"id": "ext-es-neg-397", "lang": "es", "text": "¡Terrible tableta! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-180", "lang": "en", "text": "Best blender I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-neg-479", "lang": "es", "text": "Pérdida total de dinero, este mochila es basura.", "label": "negative"}
+{"id": "ext-es-pos-370", "lang": "es", "text": "Excelente cámara, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-neg-219", "lang": "en", "text": "I'm very disappointed with this printer, it stopped working.", "label": "negative"}
+{"id": "ext-en-neg-202", "lang": "en", "text": "Awful vacuum, do not buy this.", "label": "negative"}
+{"id": "ext-en-neg-172", "lang": "en", "text": "Worst jacket I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-618", "lang": "es", "text": "Horrible zapatos, no lo compren.", "label": "negative"}
+{"id": "ext-es-pos-453", "lang": "es", "text": "¡Increíble monitor! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-189", "lang": "en", "text": "Terrible blender! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-361", "lang": "es", "text": "Este auriculares se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-613", "lang": "es", "text": "¡Increíble zapatos! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-106", "lang": "en", "text": "Awful watch, do not buy this.", "label": "negative"}
+{"id": "ext-en-neg-46", "lang": "en", "text": "The headphones is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-pos-451", "lang": "es", "text": "Estoy muy contento con este monitor, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-neg-252", "lang": "en", "text": "Worst charger I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-neg-61", "lang": "en", "text": "Terrible camera! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-pos-40", "lang": "en", "text": "This headphones works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-neg-448", "lang": "es", "text": "Este teclado es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-159", "lang": "en", "text": "Complete waste of money, this backpack is garbage.", "label": "negative"}
+{"id": "ext-en-neg-313", "lang": "en", "text": "This umbrella broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-pos-246", "lang": "en", "text": "The charger performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-pos-356", "lang": "es", "text": "El mejor auriculares que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-neg-91", "lang": "en", "text": "I'm very disappointed with this speaker, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-263", "lang": "en", "text": "Fantastic mattress, worth every penny.", "label": "positive"}
+{"id": "ext-en-pos-257", "lang": "en", "text": "This mattress is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-neg-64", "lang": "en", "text": "This camera is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-175", "lang": "en", "text": "Complete waste of money, this jacket is garbage.", "label": "negative"}
+{"id": "ext-es-pos-342", "lang": "es", "text": "El portátil funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-neg-92", "lang": "en", "text": "Worst speaker I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-pos-228", "lang": "en", "text": "Best router I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-403", "lang": "es", "text": "Estoy muy contento con este altavoz, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-neg-620", "lang": "es", "text": "El peor zapatos que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-neg-576", "lang": "es", "text": "Este cargador es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-neg-538", "lang": "es", "text": "Horrible impresora, no lo compren.", "label": "negative"}
+{"id": "ext-es-neg-544", "lang": "es", "text": "Este impresora es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-neg-441", "lang": "es", "text": "Este teclado se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-neg-111", "lang": "en", "text": "Complete waste of money, this watch is garbage.", "label": "negative"}
+{"id": "ext-es-neg-413", "lang": "es", "text": "¡Terrible altavoz! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-neg-621", "lang": "es", "text": "¡Terrible zapatos! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-150", "lang": "en", "text": "The backpack performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-pos-615", "lang": "es", "text": "Fantástico zapatos, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-pos-214", "lang": "en", "text": "The printer performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-492", "lang": "es", "text": "El peor chaqueta que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-neg-415", "lang": "es", "text": "Pérdida total de dinero, este altavoz es basura.", "label": "negative"}
+{"id": "ext-es-pos-376", "lang": "es", "text": "Este cámara funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-es-neg-445", "lang": "es", "text": "¡Terrible teclado! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-177", "lang": "en", "text": "This blender is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-neg-477", "lang": "es", "text": "¡Terrible mochila! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-242", "lang": "en", "text": "Great charger, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-pos-20", "lang": "en", "text": "Best laptop I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-neg-29", "lang": "en", "text": "Terrible laptop! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-pos-3", "lang": "en", "text": "I'm really happy with this phone, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-neg-144", "lang": "en", "text": "This monitor is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-294", "lang": "en", "text": "The shoes performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-en-pos-181", "lang": "en", "text": "Excellent blender! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-486", "lang": "es", "text": "El chaqueta funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-114", "lang": "en", "text": "Great keyboard, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-287", "lang": "en", "text": "Complete waste of money, this toaster is garbage.", "label": "negative"}
+{"id": "ext-en-neg-317", "lang": "en", "text": "Terrible umbrella! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-528", "lang": "es", "text": "Este aspiradora es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-pos-520", "lang": "es", "text": "Este aspiradora funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-es-pos-533", "lang": "es", "text": "¡Increíble impresora! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-pos-67", "lang": "en", "text": "I'm really happy with this tablet, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-neg-171", "lang": "en", "text": "I'm very disappointed with this jacket, it stopped working.", "label": "negative"}
+{"id": "ext-es-pos-357", "lang": "es", "text": "¡Increíble auriculares! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-pos-23", "lang": "en", "text": "Fantastic laptop, worth every penny.", "label": "positive"}
+{"id": "ext-es-neg-540", "lang": "es", "text": "El peor impresora que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-neg-352", "lang": "es", "text": "Este portátil es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-neg-601", "lang": "es", "text": "Este tostadora se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-neg-27", "lang": "en", "text": "I'm very disappointed with this laptop, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-129", "lang": "en", "text": "This monitor is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-neg-493", "lang": "es", "text": "¡Terrible chaqueta! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-259", "lang": "en", "text": "I'm really happy with this mattress, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-pos-295", "lang": "en", "text": "Fantastic shoes, worth every penny.", "label": "positive"}
+{"id": "ext-en-pos-310", "lang": "en", "text": "The umbrella performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-571", "lang": "es", "text": "Estoy muy decepcionado con este cargador, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-neg-108", "lang": "en", "text": "Worst watch I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-pos-145", "lang": "en", "text": "This backpack is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-neg-140", "lang": "en", "text": "Worst monitor I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-348", "lang": "es", "text": "El peor portátil que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-pos-55", "lang": "en", "text": "Fantastic camera, worth every penny.", "label": "positive"}
+{"id": "ext-en-neg-60", "lang": "en", "text": "Worst camera I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-pos-322", "lang": "es", "text": "Excelente teléfono, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-pos-69", "lang": "en", "text": "Excellent tablet! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-en-pos-54", "lang": "en", "text": "The camera performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-en-neg-304", "lang": "en", "text": "This shoes is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-es-pos-337", "lang": "es", "text": "¡Este portátil es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-463", "lang": "es", "text": "Pérdida total de dinero, este monitor es basura.", "label": "negative"}
+{"id": "ext-en-neg-155", "lang": "en", "text": "I'm very disappointed with this backpack, it stopped working.", "label": "negative"}
+{"id": "ext-en-pos-279", "lang": "en", "text": "Fantastic toaster, worth every penny.", "label": "positive"}
+{"id": "ext-es-neg-462", "lang": "es", "text": "El monitor es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-449", "lang": "es", "text": "¡Este monitor es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-pos-146", "lang": "en", "text": "Great backpack, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-190", "lang": "en", "text": "The blender is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-126", "lang": "en", "text": "The keyboard is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-510", "lang": "es", "text": "El licuadora es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-en-pos-179", "lang": "en", "text": "I'm really happy with this blender, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-neg-319", "lang": "en", "text": "Complete waste of money, this umbrella is garbage.", "label": "negative"}
+{"id": "ext-es-neg-495", "lang": "es", "text": "Pérdida total de dinero, este chaqueta es basura.", "label": "negative"}
+{"id": "ext-es-neg-509", "lang": "es", "text": "¡Terrible licuadora! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-neg-362", "lang": "es", "text": "Horrible auriculares, no lo compren.", "label": "negative"}
+{"id": "ext-en-pos-276", "lang": "en", "text": "Best toaster I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-neg-521", "lang": "es", "text": "Este aspiradora se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-pos-52", "lang": "en", "text": "Best camera I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-pos-289", "lang": "en", "text": "This shoes is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-neg-303", "lang": "en", "text": "Complete waste of money, this shoes is garbage.", "label": "negative"}
+{"id": "ext-en-pos-5", "lang": "en", "text": "Excellent phone! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-en-pos-38", "lang": "en", "text": "The headphones performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-508", "lang": "es", "text": "El peor licuadora que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-pos-561", "lang": "es", "text": "¡Este cargador es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-neg-154", "lang": "en", "text": "Awful backpack, do not buy this.", "label": "negative"}
+{"id": "ext-es-neg-416", "lang": "es", "text": "Este altavoz es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-203", "lang": "en", "text": "I'm very disappointed with this vacuum, it stopped working.", "label": "negative"}
+{"id": "ext-es-pos-355", "lang": "es", "text": "Estoy muy contento con este auriculares, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-pos-484", "lang": "es", "text": "El mejor chaqueta que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-pos-340", "lang": "es", "text": "El mejor portátil que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-pos-631", "lang": "es", "text": "Fantástico paraguas, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-pos-134", "lang": "en", "text": "The monitor performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-pos-519", "lang": "es", "text": "Fantástico aspiradora, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-neg-268", "lang": "en", "text": "Worst mattress I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-pos-290", "lang": "en", "text": "Great shoes, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-299", "lang": "en", "text": "I'm very disappointed with this shoes, it stopped working.", "label": "negative"}
+{"id": "ext-es-neg-574", "lang": "es", "text": "El cargador es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-330", "lang": "es", "text": "Horrible teléfono, no lo compren.", "label": "negative"}
+{"id": "ext-en-pos-21", "lang": "en", "text": "Excellent laptop! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-327", "lang": "es", "text": "Fantástico teléfono, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-pos-420", "lang": "es", "text": "El mejor reloj que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-neg-443", "lang": "es", "text": "Estoy muy decepcionado con este teclado, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-292", "lang": "en", "text": "Best shoes I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-neg-444", "lang": "es", "text": "El peor teclado que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-pos-504", "lang": "es", "text": "Este licuadora funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-121", "lang": "en", "text": "This keyboard broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-neg-427", "lang": "es", "text": "Estoy muy decepcionado con este reloj, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-305", "lang": "en", "text": "This umbrella is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-567", "lang": "es", "text": "Fantástico cargador, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-pos-627", "lang": "es", "text": "Estoy muy contento con este paraguas, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-neg-42", "lang": "en", "text": "Awful headphones, do not buy this.", "label": "negative"}
+{"id": "ext-en-pos-261", "lang": "en", "text": "Excellent mattress! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-neg-350", "lang": "es", "text": "El portátil es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-593", "lang": "es", "text": "¡Este tostadora es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-pos-498", "lang": "es", "text": "Excelente licuadora, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-neg-527", "lang": "es", "text": "Pérdida total de dinero, este aspiradora es basura.", "label": "negative"}
+{"id": "ext-en-pos-245", "lang": "en", "text": "Excellent charger! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-en-neg-300", "lang": "en", "text": "Worst shoes I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-pos-372", "lang": "es", "text": "El mejor cámara que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-pos-481", "lang": "es", "text": "¡Este chaqueta es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-pos-161", "lang": "en", "text": "This jacket is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-392", "lang": "es", "text": "Este tableta funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-pos-278", "lang": "en", "text": "The toaster performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-585", "lang": "es", "text": "Este colchón se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-483", "lang": "es", "text": "Estoy muy contento con este chaqueta, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-neg-112", "lang": "en", "text": "This watch is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-152", "lang": "en", "text": "This backpack works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-pos-385", "lang": "es", "text": "¡Este tableta es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-neg-80", "lang": "en", "text": "This tablet is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-250", "lang": "en", "text": "Awful charger, do not buy this.", "label": "negative"}
+{"id": "ext-es-pos-339", "lang": "es", "text": "Estoy muy contento con este portátil, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-pos-580", "lang": "es", "text": "El mejor colchón que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-neg-381", "lang": "es", "text": "¡Terrible cámara! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-pos-549", "lang": "es", "text": "¡Increíble router! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-233", "lang": "en", "text": "This router broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-neg-464", "lang": "es", "text": "Este monitor es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-pos-200", "lang": "en", "text": "This vacuum works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-2", "lang": "en", "text": "Great phone, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-pos-195", "lang": "en", "text": "I'm really happy with this vacuum, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-neg-624", "lang": "es", "text": "Este zapatos es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-neg-429", "lang": "es", "text": "¡Terrible reloj! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-neg-206", "lang": "en", "text": "The vacuum is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-475", "lang": "es", "text": "Estoy muy decepcionado con este mochila, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-247", "lang": "en", "text": "Fantastic charger, worth every penny.", "label": "positive"}
+{"id": "ext-es-pos-419", "lang": "es", "text": "Estoy muy contento con este reloj, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-pos-408", "lang": "es", "text": "Este altavoz funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-pos-86", "lang": "en", "text": "The speaker performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-pos-422", "lang": "es", "text": "El reloj funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-neg-48", "lang": "en", "text": "This headphones is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-8", "lang": "en", "text": "This phone works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-pos-417", "lang": "es", "text": "¡Este reloj es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-334", "lang": "es", "text": "El teléfono es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-639", "lang": "es", "text": "Pérdida total de dinero, este paraguas es basura.", "label": "negative"}
+{"id": "ext-es-pos-497", "lang": "es", "text": "¡Este licuadora es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-pos-466", "lang": "es", "text": "Excelente mochila, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-pos-227", "lang": "en", "text": "I'm really happy with this router, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-pos-39", "lang": "en", "text": "Fantastic headphones, worth every penny.", "label": "positive"}
+{"id": "ext-es-neg-457", "lang": "es", "text": "Este monitor se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-neg-237", "lang": "en", "text": "Terrible router! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-pos-421", "lang": "es", "text": "¡Increíble reloj! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-neg-537", "lang": "es", "text": "Este impresora se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-401", "lang": "es", "text": "¡Este altavoz es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-588", "lang": "es", "text": "El peor colchón que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-pos-230", "lang": "en", "text": "The router performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-557", "lang": "es", "text": "¡Terrible router! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-pos-407", "lang": "es", "text": "Fantástico altavoz, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-pos-99", "lang": "en", "text": "I'm really happy with this watch, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-595", "lang": "es", "text": "Estoy muy contento con este tostadora, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-pos-56", "lang": "en", "text": "This camera works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-pos-440", "lang": "es", "text": "Este teclado funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-es-pos-373", "lang": "es", "text": "¡Increíble cámara! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-207", "lang": "en", "text": "Complete waste of money, this vacuum is garbage.", "label": "negative"}
+{"id": "ext-en-neg-32", "lang": "en", "text": "This laptop is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-51", "lang": "en", "text": "I'm really happy with this camera, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-neg-331", "lang": "es", "text": "Estoy muy decepcionado con este teléfono, dejó de funcionar.", "label": "negative"}
+{"id": "ext-es-neg-335", "lang": "es", "text": "Pérdida total de dinero, este teléfono es basura.", "label": "negative"}
+{"id": "ext-es-neg-606", "lang": "es", "text": "El tostadora es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-622", "lang": "es", "text": "El zapatos es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-pos-456", "lang": "es", "text": "Este monitor funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-240", "lang": "en", "text": "This router is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-211", "lang": "en", "text": "I'm really happy with this printer, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-616", "lang": "es", "text": "Este zapatos funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-pos-182", "lang": "en", "text": "The blender performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-es-neg-607", "lang": "es", "text": "Pérdida total de dinero, este tostadora es basura.", "label": "negative"}
+{"id": "ext-es-pos-468", "lang": "es", "text": "El mejor mochila que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-pos-50", "lang": "en", "text": "Great camera, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-pos-536", "lang": "es", "text": "Este impresora funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-pos-98", "lang": "en", "text": "Great watch, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-pos-209", "lang": "en", "text": "This printer is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-neg-412", "lang": "es", "text": "El peor altavoz que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-pos-402", "lang": "es", "text": "Excelente altavoz, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-neg-125", "lang": "en", "text": "Terrible keyboard! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-pos-243", "lang": "en", "text": "I'm really happy with this charger, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-pos-296", "lang": "en", "text": "This shoes works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-293", "lang": "en", "text": "Excellent shoes! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-neg-542", "lang": "es", "text": "El impresora es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-556", "lang": "es", "text": "El peor router que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-neg-458", "lang": "es", "text": "Horrible monitor, no lo compren.", "label": "negative"}
+{"id": "ext-en-neg-110", "lang": "en", "text": "The watch is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-490", "lang": "es", "text": "Horrible chaqueta, no lo compren.", "label": "negative"}
+{"id": "ext-es-pos-343", "lang": "es", "text": "Fantástico portátil, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-neg-570", "lang": "es", "text": "Horrible cargador, no lo compren.", "label": "negative"}
+{"id": "ext-en-neg-122", "lang": "en", "text": "Awful keyboard, do not buy this.", "label": "negative"}
+{"id": "ext-en-pos-264", "lang": "en", "text": "This mattress works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-neg-432", "lang": "es", "text": "Este reloj es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-170", "lang": "en", "text": "Awful jacket, do not buy this.", "label": "negative"}
+{"id": "ext-en-pos-17", "lang": "en", "text": "This laptop is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-pos-35", "lang": "en", "text": "I'm really happy with this headphones, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-436", "lang": "es", "text": "El mejor teclado que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-pos-628", "lang": "es", "text": "El mejor paraguas que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-neg-619", "lang": "es", "text": "Estoy muy decepcionado con este zapatos, dejó de funcionar.", "label": "negative"}
+{"id": "ext-es-neg-363", "lang": "es", "text": "Estoy muy decepcionado con este auriculares, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-37", "lang": "en", "text": "Excellent headphones! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-517", "lang": "es", "text": "¡Increíble aspiradora! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-pos-535", "lang": "es", "text": "Fantástico impresora, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-pos-438", "lang": "es", "text": "El teclado funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-neg-525", "lang": "es", "text": "¡Terrible aspiradora! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-neg-284", "lang": "en", "text": "Worst toaster I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-neg-302", "lang": "en", "text": "The shoes is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-11", "lang": "en", "text": "I'm very disappointed with this phone, it stopped working.", "label": "negative"}
+{"id": "ext-en-neg-174", "lang": "en", "text": "The jacket is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-560", "lang": "es", "text": "Este router es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-pos-116", "lang": "en", "text": "Best keyboard I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-neg-127", "lang": "en", "text": "Complete waste of money, this keyboard is garbage.", "label": "negative"}
+{"id": "ext-en-neg-62", "lang": "en", "text": "The camera is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-pos-232", "lang": "en", "text": "This router works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-neg-265", "lang": "en", "text": "This mattress broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-neg-541", "lang": "es", "text": "¡Terrible impresora! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-neg-505", "lang": "es", "text": "Este licuadora se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-563", "lang": "es", "text": "Estoy muy contento con este cargador, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-pos-344", "lang": "es", "text": "Este portátil funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-205", "lang": "en", "text": "Terrible vacuum! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-608", "lang": "es", "text": "Este tostadora es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-neg-366", "lang": "es", "text": "El auriculares es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-en-pos-103", "lang": "en", "text": "Fantastic watch, worth every penny.", "label": "positive"}
+{"id": "ext-es-pos-354", "lang": "es", "text": "Excelente auriculares, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-pos-578", "lang": "es", "text": "Excelente colchón, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-pos-387", "lang": "es", "text": "Estoy muy contento con este tableta, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-pos-502", "lang": "es", "text": "El licuadora funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-pos-515", "lang": "es", "text": "Estoy muy contento con este aspiradora, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-neg-555", "lang": "es", "text": "Estoy muy decepcionado con este router, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-311", "lang": "en", "text": "Fantastic umbrella, worth every penny.", "label": "positive"}
+{"id": "ext-es-neg-447", "lang": "es", "text": "Pérdida total de dinero, este teclado es basura.", "label": "negative"}
+{"id": "ext-es-pos-599", "lang": "es", "text": "Fantástico tostadora, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-pos-136", "lang": "en", "text": "This monitor works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-85", "lang": "en", "text": "Excellent speaker! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-neg-638", "lang": "es", "text": "El paraguas es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-en-pos-244", "lang": "en", "text": "Best charger I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-338", "lang": "es", "text": "Excelente portátil, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-pos-531", "lang": "es", "text": "Estoy muy contento con este impresora, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-pos-65", "lang": "en", "text": "This tablet is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-neg-393", "lang": "es", "text": "Este tableta se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-pos-273", "lang": "en", "text": "This toaster is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-581", "lang": "es", "text": "¡Increíble colchón! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-pos-36", "lang": "en", "text": "Best headphones I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-418", "lang": "es", "text": "Excelente reloj, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-neg-249", "lang": "en", "text": "This charger broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-es-pos-375", "lang": "es", "text": "Fantástico cámara, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-neg-44", "lang": "en", "text": "Worst headphones I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-neg-41", "lang": "en", "text": "This headphones broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-pos-291", "lang": "en", "text": "I'm really happy with this shoes, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-488", "lang": "es", "text": "Este chaqueta funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-en-neg-124", "lang": "en", "text": "Worst keyboard I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-neg-30", "lang": "en", "text": "The laptop is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-123", "lang": "en", "text": "I'm very disappointed with this keyboard, it stopped working.", "label": "negative"}
+{"id": "ext-en-neg-158", "lang": "en", "text": "The backpack is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-414", "lang": "es", "text": "El altavoz es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-426", "lang": "es", "text": "Horrible reloj, no lo compren.", "label": "negative"}
+{"id": "ext-es-pos-450", "lang": "es", "text": "Excelente monitor, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-neg-186", "lang": "en", "text": "Awful blender, do not buy this.", "label": "negative"}
+{"id": "ext-es-neg-476", "lang": "es", "text": "El peor mochila que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-pos-562", "lang": "es", "text": "Excelente cargador, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-en-neg-10", "lang": "en", "text": "Awful phone, do not buy this.", "label": "negative"}
+{"id": "ext-es-neg-569", "lang": "es", "text": "Este cargador se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-pos-166", "lang": "en", "text": "The jacket performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-en-pos-307", "lang": "en", "text": "I'm really happy with this umbrella, exceeded my expectations.", "label": "positive"}
+{"id": "ext-en-pos-1", "lang": "en", "text": "This phone is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-597", "lang": "es", "text": "¡Increíble tostadora! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-pos-548", "lang": "es", "text": "El mejor router que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-neg-473", "lang": "es", "text": "Este mochila se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-neg-399", "lang": "es", "text": "Pérdida total de dinero, este tableta es basura.", "label": "negative"}
+{"id": "ext-es-neg-489", "lang": "es", "text": "Este chaqueta se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-565", "lang": "es", "text": "¡Increíble cargador! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-pos-83", "lang": "en", "text": "I'm really happy with this speaker, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-529", "lang": "es", "text": "¡Este impresora es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-neg-192", "lang": "en", "text": "This blender is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-79", "lang": "en", "text": "Complete waste of money, this tablet is garbage.", "label": "negative"}
+{"id": "ext-en-pos-102", "lang": "en", "text": "The watch performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-en-pos-312", "lang": "en", "text": "This umbrella works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-260", "lang": "en", "text": "Best mattress I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-328", "lang": "es", "text": "Este teléfono funciona genial y la batería dura mucho.", "label": "positive"}
+{"id": "ext-es-neg-431", "lang": "es", "text": "Pérdida total de dinero, este reloj es basura.", "label": "negative"}
+{"id": "ext-en-pos-306", "lang": "en", "text": "Great umbrella, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-109", "lang": "en", "text": "Terrible watch! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-pos-183", "lang": "en", "text": "Fantastic blender, worth every penny.", "label": "positive"}
+{"id": "ext-es-pos-513", "lang": "es", "text": "¡Este aspiradora es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-pos-545", "lang": "es", "text": "¡Este router es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-pos-4", "lang": "en", "text": "Best phone I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-579", "lang": "es", "text": "Estoy muy contento con este colchón, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-pos-162", "lang": "en", "text": "Great jacket, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-neg-446", "lang": "es", "text": "El teclado es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-591", "lang": "es", "text": "Pérdida total de dinero, este colchón es basura.", "label": "negative"}
+{"id": "ext-es-neg-640", "lang": "es", "text": "Este paraguas es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-pos-610", "lang": "es", "text": "Excelente zapatos, funciona perfectamente y se ve genial.", "label": "positive"}
+{"id": "ext-es-neg-573", "lang": "es", "text": "¡Terrible cargador! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-118", "lang": "en", "text": "The keyboard performs wonderfully, everything about it is impressive.", "label": "positive"}
+{"id": "ext-en-neg-12", "lang": "en", "text": "Worst phone I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-en-pos-258", "lang": "en", "text": "Great mattress, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-neg-480", "lang": "es", "text": "Este mochila es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-es-pos-391", "lang": "es", "text": "Fantástico tableta, vale cada centavo.", "label": "positive"}
+{"id": "ext-es-neg-395", "lang": "es", "text": "Estoy muy decepcionado con este tableta, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-66", "lang": "en", "text": "Great tablet, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-pos-611", "lang": "es", "text": "Estoy muy contento con este zapatos, superó mis expectativas.", "label": "positive"}
+{"id": "ext-es-pos-612", "lang": "es", "text": "El mejor zapatos que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-neg-157", "lang": "en", "text": "Terrible backpack! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-pos-113", "lang": "en", "text": "This keyboard is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-pos-49", "lang": "en", "text": "This camera is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-neg-94", "lang": "en", "text": "The speaker is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-neg-506", "lang": "es", "text": "Horrible licuadora, no lo compren.", "label": "negative"}
+{"id": "ext-es-neg-522", "lang": "es", "text": "Horrible aspiradora, no lo compren.", "label": "negative"}
+{"id": "ext-en-neg-142", "lang": "en", "text": "The monitor is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-es-pos-564", "lang": "es", "text": "El mejor cargador que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-neg-590", "lang": "es", "text": "El colchón es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-409", "lang": "es", "text": "Este altavoz se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-439", "lang": "es", "text": "Fantástico teclado, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-neg-270", "lang": "en", "text": "The mattress is horrible, nothing works as advertised.", "label": "negative"}
+{"id": "ext-en-neg-253", "lang": "en", "text": "Terrible charger! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-635", "lang": "es", "text": "Estoy muy decepcionado con este paraguas, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-neg-272", "lang": "en", "text": "This mattress is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-pos-147", "lang": "en", "text": "I'm really happy with this backpack, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-pos-470", "lang": "es", "text": "El mochila funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-pos-406", "lang": "es", "text": "El altavoz funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-neg-512", "lang": "es", "text": "Este licuadora es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-neg-218", "lang": "en", "text": "Awful printer, do not buy this.", "label": "negative"}
+{"id": "ext-es-pos-323", "lang": "es", "text": "Estoy muy contento con este teléfono, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-neg-217", "lang": "en", "text": "This printer broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-pos-68", "lang": "en", "text": "Best tablet I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-pos-275", "lang": "en", "text": "I'm really happy with this toaster, exceeded my expectations.", "label": "positive"}
+{"id": "ext-es-neg-411", "lang": "es", "text": "Estoy muy decepcionado con este altavoz, dejó de funcionar.", "label": "negative"}
+{"id": "ext-es-pos-324", "lang": "es", "text": "El mejor teléfono que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-es-pos-629", "lang": "es", "text": "¡Increíble paraguas! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-en-neg-235", "lang": "en", "text": "I'm very disappointed with this router, it stopped working.", "label": "negative"}
+{"id": "ext-en-neg-58", "lang": "en", "text": "Awful camera, do not buy this.", "label": "negative"}
+{"id": "ext-es-neg-333", "lang": "es", "text": "¡Terrible teléfono! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-pos-225", "lang": "en", "text": "This router is amazing, I love it!", "label": "positive"}
+{"id": "ext-en-pos-277", "lang": "en", "text": "Excellent toaster! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-389", "lang": "es", "text": "¡Increíble tableta! Entrega rápida y calidad excelente.", "label": "positive"}
+{"id": "ext-es-neg-474", "lang": "es", "text": "Horrible mochila, no lo compren.", "label": "negative"}
+{"id": "ext-en-pos-168", "lang": "en", "text": "This jacket works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-neg-637", "lang": "es", "text": "¡Terrible paraguas! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-pos-547", "lang": "es", "text": "Estoy muy contento con este router, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-neg-176", "lang": "en", "text": "This jacket is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-74", "lang": "en", "text": "Awful tablet, do not buy this.", "label": "negative"}
+{"id": "ext-en-pos-274", "lang": "en", "text": "Great toaster, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-pos-215", "lang": "en", "text": "Fantastic printer, worth every penny.", "label": "positive"}
+{"id": "ext-es-neg-364", "lang": "es", "text": "El peor auriculares que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-neg-380", "lang": "es", "text": "El peor cámara que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-pos-167", "lang": "en", "text": "Fantastic jacket, worth every penny.", "label": "positive"}
+{"id": "ext-es-pos-374", "lang": "es", "text": "El cámara funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-pos-465", "lang": "es", "text": "¡Este mochila es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-pos-609", "lang": "es", "text": "¡Este zapatos es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-603", "lang": "es", "text": "Estoy muy decepcionado con este tostadora, dejó de funcionar.", "label": "negative"}
+{"id": "ext-en-pos-104", "lang": "en", "text": "This watch works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-es-pos-625", "lang": "es", "text": "¡Este paraguas es increíble, me encanta!", "label": "positive"}
+{"id": "ext-en-pos-82", "lang": "en", "text": "Great speaker, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-en-neg-297", "lang": "en", "text": "This shoes broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-neg-234", "lang": "en", "text": "Awful router, do not buy this.", "label": "negative"}
+{"id": "ext-en-neg-47", "lang": "en", "text": "Complete waste of money, this headphones is garbage.", "label": "negative"}
+{"id": "ext-en-pos-72", "lang": "en", "text": "This tablet works great and the battery lasts forever.", "label": "positive"}
+{"id": "ext-en-pos-197", "lang": "en", "text": "Excellent vacuum! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-es-pos-371", "lang": "es", "text": "Estoy muy contento con este cámara, superó mis expectativas.", "label": "positive"}
+{"id": "ext-en-neg-301", "lang": "en", "text": "Terrible shoes! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-pos-566", "lang": "es", "text": "El cargador funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-81", "lang": "en", "text": "This speaker is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-388", "lang": "es", "text": "El mejor tableta que he tenido, lo recomiendo mucho.", "label": "positive"}
+{"id": "ext-en-neg-128", "lang": "en", "text": "This keyboard is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-es-pos-550", "lang": "es", "text": "El router funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-pos-471", "lang": "es", "text": "Fantástico mochila, vale cada centavo.", "label": "positive"}
+{"id": "ext-en-neg-45", "lang": "en", "text": "Terrible headphones! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-neg-271", "lang": "en", "text": "Complete waste of money, this mattress is garbage.", "label": "negative"}
+{"id": "ext-es-pos-353", "lang": "es", "text": "¡Este auriculares es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-368", "lang": "es", "text": "Este auriculares es malo y la batería se agota en una hora.", "label": "negative"}
+{"id": "ext-en-pos-100", "lang": "en", "text": "Best watch I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-es-pos-390", "lang": "es", "text": "El tableta funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-neg-95", "lang": "en", "text": "Complete waste of money, this speaker is garbage.", "label": "negative"}
+{"id": "ext-es-neg-634", "lang": "es", "text": "Horrible paraguas, no lo compren.", "label": "negative"}
+{"id": "ext-es-neg-345", "lang": "es", "text": "Este portátil se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-neg-221", "lang": "en", "text": "Terrible printer! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-en-neg-160", "lang": "en", "text": "This backpack is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-es-pos-614", "lang": "es", "text": "El zapatos funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-es-neg-349", "lang": "es", "text": "¡Terrible portátil! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-es-pos-630", "lang": "es", "text": "El paraguas funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-pos-164", "lang": "en", "text": "Best jacket I've ever owned, highly recommend it.", "label": "positive"}
+{"id": "ext-en-pos-7", "lang": "en", "text": "Fantastic phone, worth every penny.", "label": "positive"}
+{"id": "ext-en-neg-285", "lang": "en", "text": "Terrible toaster! Support was useless and it arrived damaged.", "label": "negative"}
+{"id": "ext-es-neg-604", "lang": "es", "text": "El peor tostadora que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-es-neg-460", "lang": "es", "text": "El peor monitor que he usado, pobre en todos los sentidos.", "label": "negative"}
+{"id": "ext-en-pos-226", "lang": "en", "text": "Great router, works perfectly and looks excellent.", "label": "positive"}
+{"id": "ext-es-neg-430", "lang": "es", "text": "El reloj es horrible, nada funciona como se anuncia.", "label": "negative"}
+{"id": "ext-es-neg-633", "lang": "es", "text": "Este paraguas se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-en-neg-204", "lang": "en", "text": "Worst vacuum I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-575", "lang": "es", "text": "Pérdida total de dinero, este cargador es basura.", "label": "negative"}
+{"id": "ext-en-neg-28", "lang": "en", "text": "Worst laptop I've ever used, poor in every way.", "label": "negative"}
+{"id": "ext-es-neg-617", "lang": "es", "text": "Este zapatos se rompió después de dos días, calidad terrible.", "label": "negative"}
+{"id": "ext-es-pos-518", "lang": "es", "text": "El aspiradora funciona maravillosamente, todo en él es impresionante.", "label": "positive"}
+{"id": "ext-en-neg-239", "lang": "en", "text": "Complete waste of money, this router is garbage.", "label": "negative"}
+{"id": "ext-en-neg-224", "lang": "en", "text": "This printer is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-96", "lang": "en", "text": "This speaker is bad and the battery dies within an hour.", "label": "negative"}
+{"id": "ext-en-neg-31", "lang": "en", "text": "Complete waste of money, this laptop is garbage.", "label": "negative"}
+{"id": "ext-en-pos-33", "lang": "en", "text": "This headphones is amazing, I love it!", "label": "positive"}
+{"id": "ext-es-pos-433", "lang": "es", "text": "¡Este teclado es increíble, me encanta!", "label": "positive"}
+{"id": "ext-es-neg-605", "lang": "es", "text": "¡Terrible tostadora! El soporte fue inútil y llegó dañado.", "label": "negative"}
+{"id": "ext-en-neg-90", "lang": "en", "text": "Awful speaker, do not buy this.", "label": "negative"}
+{"id": "ext-es-neg-559", "lang": "es", "text": "Pérdida total de dinero, este router es basura.", "label": "negative"}
+{"id": "ext-en-neg-105", "lang": "en", "text": "This watch broke after two days, terrible quality.", "label": "negative"}
+{"id": "ext-en-neg-143", "lang": "en", "text": "Complete waste of money, this monitor is garbage.", "label": "negative"}
+{"id": "ext-en-pos-229", "lang": "en", "text": "Excellent router! Fast delivery and superb quality.", "label": "positive"}
+{"id": "ext-en-neg-251", "lang": "en", "text": "I'm very disappointed with this charger, it stopped working.", "label": "negative"}
+{"id": "ext-en-neg-282", "lang": "en", "text": "Awful toaster, do not buy this.", "label": "negative"}
+{"id": "ext-en-neg-26", "lang": "en", "text": "Awful laptop, do not buy this.", "label": "negative"}
+{"id": "ext-en-pos-115", "lang": "en", "text": "I'm really happy with this keyboard, exceeded my expectations.", "label": "positive"}

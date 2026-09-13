@@ -37,3 +37,21 @@ def test_preprocess_missing_file(capsys, tmp_path):
     rc = main(["preprocess", "--file", str(tmp_path / "nope.jsonl")])
     assert rc == 1
     assert "not found" in capsys.readouterr().err
+
+
+def test_train_baseline_defaults_to_bundled_sample(capsys):
+    """No --data given -> trains on the bundled 120-row sample (issue #3)."""
+    rc = main(["train-baseline"])
+    out = capsys.readouterr().out
+    assert rc == 0
+    for lang in ("en", "es"):
+        assert f"{lang}\tn_train=" in out
+
+
+def test_train_baseline_accepts_explicit_data_flag(capsys, monkeypatch):
+    monkeypatch.chdir(REPO_ROOT)
+    rc = main(["train-baseline", "--data", "examples/sentiment_extended_dataset.jsonl"])
+    out = capsys.readouterr().out
+    assert rc == 0
+    for lang in ("en", "es"):
+        assert f"{lang}\tn_train=" in out
